@@ -1,0 +1,6 @@
+git init
+git add .
+git commit -m "MEERA AI Version 2.0 with APK Builder"
+git branch -M main
+git remote add origin https://github.com/APNA_USERNAME/meera-ai-2.0.git
+git push -u origin main
